@@ -5,6 +5,8 @@ public class PracticeDay1Aleksa {
 
         // Hey guys, we are going good
         // How is your day?
+        // go to eat ice cream
+        // it is summer
 
 
     }
