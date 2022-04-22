@@ -7,6 +7,7 @@ public class PracticeDay1Aleksa {
         // How is your day?
         // go to eat ice cream
         // it is summer
+        // where is ocean
 
 
     }
